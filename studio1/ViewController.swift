@@ -10,11 +10,19 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var image: UIImageView!
+    
+    @IBOutlet weak var opacitySlider: UISlider!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func opacityChange(_ sender: Any) {
+//        print("here")
+        image.alpha = CGFloat(opacitySlider.value)
+    }
+    
 }
 

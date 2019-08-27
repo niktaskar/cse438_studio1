@@ -14,6 +14,7 @@
 		147617D723150300004AB606 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 147617D523150300004AB606 /* LaunchScreen.storyboard */; };
 		147617E223150300004AB606 /* studio1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 147617E123150300004AB606 /* studio1Tests.swift */; };
 		147617ED23150301004AB606 /* studio1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 147617EC23150301004AB606 /* studio1UITests.swift */; };
+		147617FB231586B2004AB606 /* wustl.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 147617FA231586B2004AB606 /* wustl.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		147617E823150301004AB606 /* studio1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = studio1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		147617EC23150301004AB606 /* studio1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = studio1UITests.swift; sourceTree = "<group>"; };
 		147617EE23150301004AB606 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		147617FA231586B2004AB606 /* wustl.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wustl.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				147617CC23150300004AB606 /* AppDelegate.swift */,
 				147617CE23150300004AB606 /* ViewController.swift */,
 				147617D023150300004AB606 /* Main.storyboard */,
+				147617FA231586B2004AB606 /* wustl.jpeg */,
 				147617D323150300004AB606 /* Assets.xcassets */,
 				147617D523150300004AB606 /* LaunchScreen.storyboard */,
 				147617D823150300004AB606 /* Info.plist */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				147617D723150300004AB606 /* LaunchScreen.storyboard in Resources */,
+				147617FB231586B2004AB606 /* wustl.jpeg in Resources */,
 				147617D423150300004AB606 /* Assets.xcassets in Resources */,
 				147617D223150300004AB606 /* Main.storyboard in Resources */,
 			);
